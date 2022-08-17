@@ -1,0 +1,2 @@
+# wabitts
+Examples for rabbitsMQ
